@@ -64,8 +64,8 @@ This repository is released under the **MIT License**.
 6. Tool successfully get Activated. (One-time Activation)
    
 <img width="770" height="350" alt="image" src="https://github.com/user-attachments/assets/a47baafb-ab1a-4bec-9f44-aee8e3908998" />
-<img width="783" height="469" alt="image" src="https://github.com/user-attachments/assets/67fcda4a-0a5f-4cd2-9619-e019d60a77fc" />
-![Uploading image.png…]()
+<img width="770" height="350" alt="image" src="https://github.com/user-attachments/assets/67fcda4a-0a5f-4cd2-9619-e019d60a77fc" />
+<img width="770" height="350" alt="image" src="https://github.com/user-attachments/assets/ec917c85-5e3a-417d-9435-5355e9d1cbb6" />
 
 
 ## Usage
