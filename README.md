@@ -50,5 +50,5 @@ This repository is released under the **MIT License**.
 ## Steps to run this tool 
 1. Clone or download this repository to your windows machine  
    ```bash
-   git clone https://github.com/thelegendavanish/advanced-dork-search.git advsearch
+   git clone https://github.com/thelegendavanish/advanced-dork-search.git
 2. Extract the zip to the root of C drive `root` , looks like e.g. `C:\advanceddorksearch`.  
