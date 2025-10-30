@@ -78,7 +78,7 @@ The source code for the Tool is provided in this repository under the license in
 
 ## Contact / Reporting
 Mail at: contact@thelegendavanish.tech
-Feel free to fork, explore, or contribute!
+⭐ Feel free to fork, explore, or contribute!
 ⭐ If you like this project, don't forget to star the repo!
 
 
