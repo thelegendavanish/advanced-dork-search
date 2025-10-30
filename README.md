@@ -13,12 +13,8 @@ This repository is released under the **MIT License**.
 - [Requirements](#requirements)  
 - [Steps to run this tool](#Steps-to-run-this-tool)  
 - [Files in this repo](#files-in-this-repo)  
-- [Activation flow (one-time activation)](#activation-flow-one-time-activation)  
-- [Usage](#usage)  
-- [Configuration](#configuration)  
-- [Custom Searx / Engine](#custom-searx--engine)  
-- [Security & Responsible Use](#security--responsible-use)  
-- [Contributing](#contributing)  
+- [Activation flow (one-time activation)](#activation-flow-one-time-activation)
+- [Usage](#usage)   
 - [License](#license)  
 - [Contact / Reporting](#contact--reporting)
 
@@ -66,5 +62,10 @@ This repository is released under the **MIT License**.
 4. Copy Activation key and navigate back to activation page.
 5. Paste the Activation Key.
 6. Tool successfully get Activated. (One-time Activation)
+
+<img width="784" height="337" alt="image" src="https://github.com/user-attachments/assets/17d8a197-fd55-4749-b963-f5f2fabe442e" />
+<img width="778" height="481" alt="image" src="https://github.com/user-attachments/assets/cb94a6ff-441c-4368-b651-ffd21f25c5de" />
+<img width="772" height="294" alt="image" src="https://github.com/user-attachments/assets/6de8454a-cbf8-4825-9662-af19178a5edc" />
+
 
 
