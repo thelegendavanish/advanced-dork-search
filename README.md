@@ -62,6 +62,9 @@ This repository is released under the **MIT License**.
 ## Setps for Activation
 1. Run the `run.bat` script file.
 2. Landed on the activation page.
-   <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/d06c058b-b1e7-469f-8d43-8ccfc94b35b8" />
+3. Generate Activation Key.
+4. Copy Activation key and navigate back to activation page.
+5. Paste the Activation Key.
+6. Tool successfully get Activated. (One-time Activation)
 
-4. 
+
