@@ -51,4 +51,9 @@ This repository is released under the **MIT License**.
 1. Clone or download this repository to your windows machine  
    ```bash
    git clone https://github.com/thelegendavanish/advanced-dork-search.git
-2. Extract the zip to the root of C drive `root` , looks like e.g. `C:\advanceddorksearch`.  
+2. Extract the zip to the root of C drive `root` , looks like e.g. `C:\advanceddorksearch`.
+3. Now run the `Run.bat` script.
+4. Follow the activation steps and guidelines.
+5. Ready to use the tool.
+
+###Note: Manually execution of run.bat is required for usage of tool. 
