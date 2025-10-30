@@ -72,8 +72,15 @@ This repository is released under the **MIT License**.
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/0c4eafa9-e277-44b6-9bcb-13e7a9d8346b" />
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/69e58690-381e-48d1-be57-2cf4aba71416" />
 
+## License
+This project is shared for educational and non-commercial use.
+The source code for the Tool is provided in this repository under the license included in the LICENSE file. By publishing this project we recommend including a permissive license such as MIT. The license governs your rights to copy, modify, and redistribute the code. These Terms are independent of and run alongside the chosen open-source license.
+
 ## Contact / Reporting
 Mail at: contact@thelegendavanish.tech
+Feel free to fork, explore, or contribute!
+⭐ If you like this project, don't forget to star the repo!
+
 
 
 
