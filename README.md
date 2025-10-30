@@ -69,9 +69,5 @@ This repository is released under the **MIT License**.
 
 
 
-<img width="784" height="337" alt="image" src="https://github.com/user-attachments/assets/17d8a197-fd55-4749-b963-f5f2fabe442e" />
-<img width="778" height="481" alt="image" src="https://github.com/user-attachments/assets/cb94a6ff-441c-4368-b651-ffd21f25c5de" />
-<img width="772" height="294" alt="image" src="https://github.com/user-attachments/assets/6de8454a-cbf8-4825-9662-af19178a5edc" />
-
 
 
