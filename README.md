@@ -63,6 +63,12 @@ This repository is released under the **MIT License**.
 5. Paste the Activation Key.
 6. Tool successfully get Activated. (One-time Activation)
 
+## Usage
+<img width="1161" height="875" alt="image" src="https://github.com/user-attachments/assets/0c4eafa9-e277-44b6-9bcb-13e7a9d8346b" />
+<img width="1355" height="880" alt="image" src="https://github.com/user-attachments/assets/69e58690-381e-48d1-be57-2cf4aba71416" />
+
+
+
 <img width="784" height="337" alt="image" src="https://github.com/user-attachments/assets/17d8a197-fd55-4749-b963-f5f2fabe442e" />
 <img width="778" height="481" alt="image" src="https://github.com/user-attachments/assets/cb94a6ff-441c-4368-b651-ffd21f25c5de" />
 <img width="772" height="294" alt="image" src="https://github.com/user-attachments/assets/6de8454a-cbf8-4825-9662-af19178a5edc" />
