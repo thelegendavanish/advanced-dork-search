@@ -62,6 +62,6 @@ This repository is released under the **MIT License**.
 ## Setps for Activation
 1. Run the `run.bat` script file.
 2. Landed on the activation page.
-   <img width="906" height="378" alt="image" src="https://github.com/user-attachments/assets/d06c058b-b1e7-469f-8d43-8ccfc94b35b8" />
+   <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/d06c058b-b1e7-469f-8d43-8ccfc94b35b8" />
 
 4. 
