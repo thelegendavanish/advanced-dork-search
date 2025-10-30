@@ -56,4 +56,4 @@ This repository is released under the **MIT License**.
 4. Follow the activation steps and guidelines.
 5. Ready to use the tool.
 
-### Note: Manually execution of run.bat is required for usage of tool. 
+### Note: Manual execution of `run.bat` is required for usage of tool. 
