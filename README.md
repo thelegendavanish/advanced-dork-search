@@ -11,7 +11,7 @@ This repository is released under the **MIT License**.
 - [Features](#features)  
 - [Quick demo / screenshot](#quick-demo--screenshot)  
 - [Requirements](#requirements)  
-- [Install & run (Windows / XAMPP)](#install--run-windows--xampp)  
+- [Steps to run this tool](#Steps-to-run-this-tool)  
 - [Files in this repo](#files-in-this-repo)  
 - [Activation flow (one-time local activation)](#activation-flow-one-time-local-activation)  
 - [Usage](#usage)  
