@@ -13,7 +13,7 @@ This repository is released under the **MIT License**.
 - [Requirements](#requirements)  
 - [Steps to run this tool](#Steps-to-run-this-tool)  
 - [Files in this repo](#files-in-this-repo)  
-- [Activation flow (one-time local activation)](#activation-flow-one-time-local-activation)  
+- [Activation flow (one-time activation)](#activation-flow-one-time-local-activation)  
 - [Usage](#usage)  
 - [Configuration](#configuration)  
 - [Custom Searx / Engine](#custom-searx--engine)  
@@ -59,7 +59,7 @@ This repository is released under the **MIT License**.
 ### Note: Manual execution of `run.bat` is required for usage of tool. 
 ---
 
-## Setps for Activation
+## Activation flow (one-time activation)
 1. Run the `run.bat` script file.
 2. Landed on the activation page.
 3. Generate Activation Key.
