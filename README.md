@@ -21,12 +21,11 @@ This repository is released under the **MIT License**.
 ---
 
 ## Features
-- Clean, dark, Ewasion-inspired UI optimized for building dork queries.  
+- Clean, dark UI optimized for building dork queries.  
 - Filetype quick-tiles: TV/Movies, Books, Music, Software/ISO/Games, Images, Other.  
 - Engine selector (Google, Startpage, Searx, FilePursuit).  
 - Site filter, custom dork input, copy dork, copy URL, open search in new tab.  
-- One-time **activation** tied to the machine fingerprint. Activation data stored locally.  
-- Local-only storage for presets (in browser `localStorage`) — no external servers.  
+- One-time **activation** tied to the machine fingerprint. Activation data stored locally. 
 - MIT-licensed for permissive reuse.
 
 ---
