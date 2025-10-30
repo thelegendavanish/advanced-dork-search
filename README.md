@@ -42,8 +42,7 @@ This repository is released under the **MIT License**.
 ---
 
 ## Requirements
-- A local PHP-capable server (Windows examples): **XAMPP** (Apache + PHP), **IIS** with PHP, or similar.  
-- PHP 7.0+ recommended.  
+- Windows OS 
 - Modern web browser (Chrome, Edge, Firefox).
 
 ---
