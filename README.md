@@ -47,8 +47,8 @@ This repository is released under the **MIT License**.
 
 ---
 
-## Install & run (Windows / XAMPP)
-1. Install [XAMPP](https://www.apachefriends.org/) and start **Apache** (and PHP is bundled).  
-2. Clone or download this repository into your XAMPP `htdocs` folder, e.g. `C:\xampp\htdocs\advsearch`.  
+## Steps to run this tool 
+1. Clone or download this repository to your windows machine  
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git advsearch
+2. Extract the zip to the root of C drive `root` , e.g. `C:\`.  
