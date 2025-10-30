@@ -13,7 +13,7 @@ This repository is released under the **MIT License**.
 - [Requirements](#requirements)  
 - [Steps to run this tool](#Steps-to-run-this-tool)  
 - [Files in this repo](#files-in-this-repo)  
-- [Activation flow (one-time activation)](#activation-flow-one-time-local-activation)  
+- [Activation flow (one-time activation)](#activation-flow-one-time-activation)  
 - [Usage](#usage)  
 - [Configuration](#configuration)  
 - [Custom Searx / Engine](#custom-searx--engine)  
