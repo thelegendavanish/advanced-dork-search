@@ -36,7 +36,8 @@ This repository is released under the **MIT License**.
 ---
 
 ## Quick demo / screenshot
-(Place screenshots in `/docs` and link here if desired — recommended for README.)
+<img width="1354" height="892" alt="image" src="https://github.com/user-attachments/assets/2b7d7457-2b7d-42a8-baa9-f8b9dc7496a0" />
+
 
 ---
 
