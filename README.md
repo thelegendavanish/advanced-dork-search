@@ -72,7 +72,8 @@ This repository is released under the **MIT License**.
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/0c4eafa9-e277-44b6-9bcb-13e7a9d8346b" />
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/69e58690-381e-48d1-be57-2cf4aba71416" />
 
-
+## Contact / Reporting
+Mail at: contact@thelegendavanish.tech
 
 
 
