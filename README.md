@@ -12,7 +12,6 @@ This repository is released under the **MIT License**.
 - [Quick demo / screenshot](#quick-demo--screenshot)  
 - [Requirements](#requirements)  
 - [Steps to run this tool](#Steps-to-run-this-tool)  
-- [Files in this repo](#files-in-this-repo)  
 - [Activation flow (one-time activation)](#activation-flow-one-time-activation)
 - [Usage](#usage)   
 - [License](#license)  
