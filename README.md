@@ -1,6 +1,6 @@
 # Advanced Dork Search
 
-**Advanced Dork Search (Local)** is a single-machine tool to **build advanced search queries (Google dorks / open-directory queries)** for educational, research, and authorized security testing.  
+**Advanced Dork Search** is a single-machine tool to **build advanced search queries (Google dorks / open-directory queries)** for educational, research, and authorized security testing.  
 It *only generates* search queries and opens them in your browser — it does **not** scrape or automate scanning. Use responsibly.
 
 This repository is released under the **MIT License**.
